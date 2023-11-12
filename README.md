@@ -1,5 +1,5 @@
 - 👋 &nbsp; Hi, I’m @Merlinio
-- 👀 &nbsp; I’m interested in React, TypeScript & Java.
+- 👀 &nbsp; I’m interested in TypeScript & React, Java, Kotlin.
 - 🌱 &nbsp; I’m currently learning MobX and styled-components.
 - 💞️ &nbsp; I’m looking to collaborate on React/TypeScript stuff.
 
